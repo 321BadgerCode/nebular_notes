@@ -1,7 +1,5 @@
-<div class="center">
-	<div class="banner">Nebular Notes</div>
-	<div class="tagline">Microtonal MIDI Generator Based on Astrology Charts</div>
-</div>
+<h1>Nebular Notes</h1>
+<p>Microtonal MIDI Generator Based on Astrology Charts.</p>
 
 ---
 
